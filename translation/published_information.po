@@ -1,0 +1,61 @@
+# Chinese, Simplified translation of Drupal core (8.0.0-alpha14)
+# Copyright (c) 2014 by the Chinese, Simplified translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal core (8.0.0-alpha14)\n"
+"POT-Creation-Date: 2014-08-11 10:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Chinese, Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Management information of the website"
+msgstr "管理网站发布的信息"
+
+msgid "Industry News"
+msgstr "行业动态"
+
+msgid "Company News"
+msgstr "公司新闻"
+
+msgid "Solutions"
+msgstr "解决方案"
+
+msgid "Technical Documentation"
+msgstr "技术文档"
+
+msgid "For publishing articles on the site."
+msgstr "用户在网站上发布文章。"
+
+msgid "Article title"
+msgstr "文章标题"
+
+msgid "For publishing news on the site."
+msgstr "用于在网站上发布新闻"
+
+msgid "News title"
+msgstr "新闻标题"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

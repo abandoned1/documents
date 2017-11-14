@@ -1,0 +1,236 @@
+# Chinese, Simplified translation of Drupal core (8.0.0-alpha14)
+# Copyright (c) 2014 by the Chinese, Simplified translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal core (8.0.0-alpha14)\n"
+"POT-Creation-Date: 2014-08-11 10:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Chinese, Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Question of server"
+msgstr "服务器故障"
+
+msgid "Category of question"
+msgstr "故障分类"
+
+msgid "Name of category"
+msgstr "分类名称"
+
+msgid "limited stamp"
+msgstr "完成时限"
+
+msgid "Time of complete the question(Unit:min)"
+msgstr "完成该分类问题所需的时间(单位：分)"
+
+msgid "Description of the category."
+msgstr "分类描述"
+
+msgid "Parent"
+msgstr "所属分类"
+
+msgid "ID of parent."
+msgstr "所属分类的编号"
+
+msgid "Malfunction declare"
+msgstr "故障申报"
+
+msgid "Add category of question"
+msgstr "添加故障分类"
+
+msgid "The category of question."
+msgstr "问题所属分类"
+
+msgid "User of declare this question"
+msgstr "申报客户"
+
+msgid "User that declare this question"
+msgstr "处理人员"
+
+
+msgid "The user that deal the question."
+msgstr "对该问题进行处理的用户"
+
+msgid "The user that declare the question."
+msgstr "对该问题进行申报的用户"
+
+
+msgid "Reception hours"
+msgstr "受理时间"
+
+msgid "Time of accepted this question."
+msgstr "接受该问题的时间"
+
+msgid "Expected completion time"
+msgstr "预计完成时间"
+
+msgid "Time of expected to complete."
+msgstr "预计处理完该问题所需要的时间。"
+
+msgid "Finish time"
+msgstr "实际完成时间"
+
+msgid "Actual finish time."
+msgstr "实际完成时间。"
+
+msgid "Management ip"
+msgstr "管理IP"
+
+msgid "Business ip"
+msgstr "业务ip"
+
+msgid "Content of this question"
+msgstr "问题内容"
+
+msgid "Declare question."
+msgstr "故障申报"
+
+msgid "Transfer the question out"
+msgstr "转出问题"
+
+msgid "Transferred out"
+msgstr "转出人"
+
+msgid "Transferred out of time"
+msgstr "转出时间"
+
+msgid "Recipient"
+msgstr "接收人"
+
+msgid "Receiving time"
+msgstr "接收时间"
+
+msgid "Description"
+msgstr "转出原因/处理描述"
+
+msgid "Processing details"
+msgstr "问题处理详情"
+
+msgid "Reply to question"
+msgstr "故障回复"
+
+msgid "Please select Recipient !"
+msgstr "请选择接收人"
+
+msgid "Please fill in your reply!"
+msgstr "请填写回复内容。"
+
+msgid "Your reply has been submitted successfully!"
+msgstr "你的回复已经提交成功！"
+
+msgid "Your question has been declared successful. We will deal with as soon as possible!"
+msgstr "您的问题已经申报成功。我们会尽快处理！"
+
+msgid "Transfered record"
+msgstr "转接记录"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Whether to accept to deal with the problem."
+msgstr "是否接受处理该故障"
+
+msgid "You have accepted the problem successfully.Please deal with it as soon as possible!"
+msgstr "你已经成功接受该问题，请尽快处理。"
+
+msgid "The question has been transfer out . Please notify the recipient to reception !"
+msgstr "问题已经成功转出。请联系接收人接手处理。"
+
+msgid "Time out"
+msgstr "超时"
+
+msgid "Unfinished"
+msgstr "未完成"
+
+msgid "It was not yet accepted"
+msgstr "还未有人接受"
+
+msgid "IP of server:"
+msgstr "服务器IP："
+
+msgid "Type of question:"
+msgstr "故障类型："
+
+msgid "Processing time:"
+msgstr "处理时间："
+
+msgid "POST time:"
+msgstr "申报时间"
+
+msgid "Please fill in your reply!"
+msgstr "请选择处理状态。"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Completion status"
+msgstr "完成状态"
+
+msgid "On time"
+msgstr "按时"
+
+msgid "There have no question data to show."
+msgstr "当前条件下没有故障数据。"
+
+msgid "Question that I deal with."
+msgstr "我处理的问题列表"
+
+msgid "I deal with"
+msgstr "我处理的问题"
+
+msgid "Type of question"
+msgstr "故障类型"
+
+msgid "Transferred out"
+msgstr "转出"
+
+msgid "Income"
+msgstr "转入"
+
+msgid "Total"
+msgstr "总数"
+
+msgid "Please select the type of question ."
+msgstr "请选择问题分类"
+
+msgid "Please select the ip of question ."
+msgstr "请选择你的故障IP"
+
+msgid "Error server"
+msgstr "故障机器"
+
+msgid "Your Feedback has been submitted successfully.We will deal with as soon as possible!"
+msgstr "您的反馈已经提交成功，我们会尽快处理。"
+
+msgid "Can't transfer this question  to yourself !"
+msgstr "不能将此问题转给自己！"
+
+msgid "Please fill out the reason ."
+msgstr "请填写理由。"
+
+msgid "Please fill in your reply message !"
+msgstr "请填写您的回复信息！"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+
+
+

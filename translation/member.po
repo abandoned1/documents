@@ -1,0 +1,127 @@
+#========== Member module  ===========
+
+msgid "Company or person name"
+msgstr "公司或个人名称"
+
+msgid "Type of membership:"
+msgstr "会员类型"
+
+msgid "Basic personal information"
+msgstr "个人基本信息"
+
+msgid "Membership"
+msgstr "会员身份"
+
+msgid "Full name"
+msgstr "姓名"
+
+msgid "Industry Classification"
+msgstr "行业分类"
+
+msgid "Business Information"
+msgstr "业务信息"
+
+msgid "Major bussiness"
+msgstr "主营业务"
+
+msgid "Safe question 1"
+msgstr "安全问题一"
+
+msgid "Contact Information"
+msgstr "联系信息"
+
+msgid "Location"
+msgstr "所在地区"
+
+msgid "Basic information"
+msgstr "基本资料"
+
+msgid "Please complete the following information to help us better serve you."
+msgstr "请完善以下信息,方便我们更好的为您服务"
+
+msgid "Safe question 2"
+msgstr "安全问题2"
+
+msgid "Safe question 3"
+msgstr "安全问题3"
+
+msgid "Safe answer"
+msgstr "安全问题答案"
+
+msgid "Nick"
+msgstr "昵称"
+
+msgid "Department"
+msgstr "部门"
+
+msgid "Type of user"
+msgstr "用户类型"
+
+msgid "Position"
+msgstr "职位"
+
+msgid "Member Type"
+msgstr "会员类型"
+
+msgid "Company / Individual Name"
+msgstr "公司/个人的名称"
+
+msgid "Enhance credit"
+msgstr "提升信用额度"
+
+msgid "Original Credit"
+msgstr "原有额度"
+
+msgid "Upgrade amount"
+msgstr "提升金额"
+
+msgid "Cofirm the amount"
+msgstr "调整金额确认"
+
+msgid "Twice the amount entered does not match."
+msgstr "两次输入的金额不匹配。"
+
+msgid "Please enter the credit."
+msgstr "请输入额度"
+
+msgid "Adjust credit unsuccessful."
+msgstr "额度调整失败。"
+
+msgid "Adjust credit successful.But operating record entry fails."
+msgstr "额度调整成功。但是操作记录录入失败！"
+
+msgid "Adjust credit successful."
+msgstr "额度调整成功。"
+
+msgid "Reduce credit"
+msgstr "降低额度"
+
+msgid "Reduce amount"
+msgstr "减少金额"
+
+msgid "The original amount is insufficient."
+msgstr "原有额度不足"
+
+msgid "Credit adjustment record"
+msgstr "额度调整记录"
+
+msgid "Set credit"
+msgstr "设置信用额度"
+
+msgid "This client has been set an initial credit!"
+msgstr "这个客户已设置初始信用额度！"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

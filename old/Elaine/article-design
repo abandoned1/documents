@@ -1,0 +1,56 @@
+*article-design* article(文章管理)
+
+说明
+	1.文章栏目管理
+	2.文章管理
+
+问题
+1.文章目录
+	a)文章栏目树状形式展示(名称，排序)
+	b)文章组可直接编辑(名称，排序)。删除
+	c)文章分类信息编辑(名称，所属组，自定义链接，描述，事都首页显示)
+	d)删除文章分类信息(若该分类下有文章，则提示无法删除)
+	e)查看指定文章分类目录下的新闻列表
+	f)添加文章组（名称）
+	g)添加文章分类(名称，所属文章目录)
+2.文章
+	a)文章列表展示(标题，所属分类，发布状态，日期)。列表页可根据文章分类进行查看和设置文章是否发布
+	b)文章信息编辑(标题，所属分类，自定义链接，标题图像，描述，内容，作者，版权，是否发布，是否首页显示，文章显示顺序)
+	c)添加文章(标题，所属分类，自定义链接，标题图像，描述，内容，作者，版权，是否发布，是否首页显示，文章显示顺序)
+	d)删除文章
+
+一、 系统变量 ~
+
+二、 请求设计 ~ 
+
+三、 权限设计 ~
+
+四、 对象设计 ~
+
+五、 数据库设计 ~
+	article_catalog(文章分类目录)
+		id_catalog:目录，分类id(主键) 	int
+		title:分类名称		varchar(64)
+		id_parent:分类所属目录	int
+		description：分类描述	longtext
+		type:类型(分类 group 目录 catalog)	varchar(10)
+		compositor:显示顺序	int
+		index_show:是否首页显示	(0是  1否) tinyint
+		savedatetime:保存时间	int
+		link:自定义链接		varchar(255)
+
+	article(文章)
+		id_article:文章编号(主键)	int
+		id_catalog:所属分类 (外键 引用文章分类目录中主键)	int
+		title:文章标题		varchar(255)
+		title_picture:标题图片路径	varchar(255)
+		content:文章内容	longtext
+		description:文章描述	longtext
+		editor:作者		varchar(20)
+		rights:版权		varchar(120)
+		ispublish:是否发布
+		link:自定义链接		varchar(250)
+		show_order:显示顺序		int
+		index_show:是否首页显示	(0是 1否) tinyint
+		hits:浏览量		smallint
+六、 APIs设计 ~

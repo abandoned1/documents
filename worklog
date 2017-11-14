@@ -1,0 +1,42 @@
+#### composer ###
+1. composer config repositories.drupal composer https://packagist.drupal-composer.org
+2. composer require "drupal/address ~8.1"
+###Sass用法
+1. sass --watch --style expanded style.sass:style.css
+###Ctags用法
+1. ctags --langmap=php:.engine.inc.module.theme.install.php --php-kinds=cdfi --languages=php --recurse
+###Git用法
+1. git log -p [文件] | grep 'content'
+   在日志中查找代码历史变更。
+   -G 查找正则
+   -S 查找文本
+2. git log --pretty=oneline '文件名'
+   查找某个文件的变更历史
+3. git show 'fdsafdaf3828f0823'
+   查看具体更改
+4. git commit -C HEAD -amend;
+###英文字体
+@import url(//fonts.googleapis.com/css?family=EB+Garamond|IM+Fell+Double+Pica|Open+Sans|Montserrat);
+	C表示用之前的message，HEAD可以是其他的提交名称
+
+$ git log v2.5..        # commits since (not reachable from) v2.5
+$ git log test..master  # commits reachable from master but not test
+$ git log master..test  # commits reachable from test but not master
+$ git log master...test # commits reachable from either test or
+                        #    master, but not both
+$ git log --since="2 weeks ago" # commits from the last 2 weeks
+$ git log Makefile      # commits that modify Makefile
+$ git log fs/           # commits that modify any file under fs/
+$ git log -S'foo()'     # commits that add or remove any file data
+                        # matching the string 'foo()'
+$ git log --no-merges   # dont show merge commits
+
+待解决问题:
+1. 服务器编辑时的控件为空不能提交问题
+2. 机柜编辑机位不能更新问题
+
+
+安装文件配置问题:
+1. profile中添加默认权限
+
+

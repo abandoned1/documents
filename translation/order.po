@@ -1,0 +1,285 @@
+# Chinese, Simplified translation of Drupal core (8.0.0-alpha14)
+# Copyright (c) 2014 by the Chinese, Simplified translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal core (8.0.0-alpha14)\n"
+"POT-Creation-Date: 2014-08-11 10:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Chinese, Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+# order module
+msgid "Company or person name"
+msgstr "公司或单位名称呼"
+
+msgid "Contact person"
+msgstr "联络人"
+
+msgid "Phone"
+msgstr "联系电话"
+
+msgid "Order Amount"
+msgstr "订单金额"
+
+msgid "Order Status"
+msgstr "订单状态"
+
+msgid "ID"
+msgstr "编号"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Product detail"
+msgstr "产品详情"
+
+msgid "Unit price"
+msgstr "单价"
+
+msgid "Count"
+msgstr "数量"
+
+msgid "Total price"
+msgstr "总价"
+
+msgid "Order id"
+msgstr "订单编号"
+
+msgid "Order title"
+msgstr "订单标题"
+
+msgid "Order Quantity"
+msgstr "订购数量"
+
+msgid "Formal order"
+msgstr "正式订单"
+
+msgid "Created"
+msgstr "创建时间"
+
+msgid "Service period"
+msgstr "服务周期"
+
+msgid "Order code"
+msgstr "订单编号"
+
+msgid "Actually paid"
+msgstr "实付金额"
+
+msgid "Commissioner"
+msgstr "负责专员"
+
+msgid "Accept orders Success!"
+msgstr "接受订单成功"
+
+msgid "Additional Services"
+msgstr "附加业务"
+
+msgid "Customer Message"
+msgstr "客户留言"
+
+msgid "Total price of basic Configuration"
+msgstr "基本配置的总价格"
+
+msgid "Service items"
+msgstr "服务项目"
+
+msgid "Order Time"
+msgstr "下单时间"
+
+msgid "Order account"
+msgstr "订购帐号"
+
+msgid "Order amount"
+msgstr "订单金额"
+
+msgid "Payment method"
+msgstr "付款方式"
+
+msgid "Payment description"
+msgstr "付款描述"
+
+msgid "Payment date"
+msgstr "支付时间"
+
+msgid "Apply to change price"
+msgstr "申请修改订单价格"
+
+msgid "Reasons for applying changes."
+msgstr "申请修改价格的理由"
+
+msgid "Discount amount :"
+msgstr "折扣价格 :"
+
+msgid "Discount amount"
+msgstr "折扣价格"
+
+
+msgid "Order price :"
+msgstr "订单价格 :"
+
+msgid "Application is successful!Please wait for the audit results."
+msgstr "申请成功！请等待审核结果。	"
+
+msgid "Applicant"
+msgstr "申请人"
+
+msgid "Reviewers"
+msgstr "审核人"
+
+msgid "Pending audit"
+msgstr "待审核"
+
+msgid "approved"
+msgstr "审核通过"
+
+msgid "Not pass"
+msgstr "审核未通过"
+
+msgid "Agree"
+msgstr "同意"
+
+msgid "Refuse"
+msgstr "拒绝"
+
+msgid "Are you sure you want to agree with this application?"
+msgstr "你确定要同意这个申请吗？"
+
+msgid "Deal with this application"
+msgstr "处理申请"
+
+msgid "Application details"
+msgstr "申请详情"
+
+msgid "Application Period"
+msgstr "申请时间"
+
+msgid "Audit time"
+msgstr "审核时间"
+
+msgid "After the consent order price becomes ￥ %price ."
+msgstr "同意之后，订单价格将会变为 ￥ %price。"
+
+msgid "Processing Description"
+msgstr "处理描述"
+
+msgid "Price change application through the audit!"
+msgstr "改价申请通过审核。"
+
+msgid "Are you sure you want to refuse this application?"
+msgstr "确定要拒绝这个改价申请吗？"
+
+msgid "After the refusal, the order price will remain unchanged: ￥ %price ."
+msgstr "拒绝之后，订单价格将保持不变： ￥ %price"
+
+msgid "Price change application has been refused!"
+msgstr "改价申请已经拒绝！"
+
+msgid "Corresponding order:"
+msgstr "对应订单："
+
+msgid "Technical Department"
+msgstr "技术部"
+
+msgid "The department has not yet processed!"
+msgstr "该部门还未处理"
+
+msgid "The Department for processing specialist"
+msgstr "部门处理专员"
+
+msgid "%name in the %time took over the handling of the server."
+msgstr "%name 在 %time 接手处理该服务器。"
+
+msgid "Are you accept to handle the server ?"
+msgstr "你要接手处理该服务器吗？	"
+
+msgid "whether it can remote"
+msgstr "是否能远程"
+
+msgid "The password is correct or not"
+msgstr "密码是否正确"
+
+msgid "whether IP is normal"
+msgstr "IP是否正常"
+
+msgid "Configuration verification"
+msgstr "配置确认"
+
+msgid "Port verification"
+msgstr "端口确认"
+
+msgid "Start date"
+msgstr "开始日期"
+
+msgid "End Date"
+msgstr "结束日期"
+
+msgid "Server code"
+msgstr "服务器编码"
+
+msgid "Shelves time"
+msgstr "上架时间"
+
+msgid "Operating system"
+msgstr "操作系统"
+
+msgid "Service password"
+msgstr "服务密码"
+
+msgid "Machine room"
+msgstr "机房"
+
+msgid "The order %order does not exist !"
+msgstr "订单 %order 不存在！"
+
+msgid "The server %server does not exist !"
+msgstr "服务器 %server 不存在！"
+
+msgid "Double click to hidden."
+msgstr "双击隐藏IP。"
+
+msgid "Double click the show."
+msgstr "双击显示所有IP。"
+
+msgid "Are you sure  want to stop the server："
+msgstr "是否确定停用这台服务器："
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
